@@ -30,7 +30,9 @@ team management, UI/UX and TDD.
 <span><img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'></span>
 
 ### Stats
-<img src='https://www.codewars.com/users/rafe95/badges/large'>
+<a href='https://www.codewars.com/users/rafe95'>
+  <img src='https://www.codewars.com/users/rafe95/badges/large'>
+</a>
 <img src='https://github-readme-stats.vercel.app/api?username=rafe95&count_private=true&show_icons=true'>
 <img src='http://github-readme-streak-stats.herokuapp.com?user=rafe95'>
 
