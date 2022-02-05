@@ -18,17 +18,6 @@ team management, UI/UX and TDD.
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
 
-### Preferred technologies
-<span><img src='https://img.shields.io/badge/Java-359AD8?style=for-the-badge&logo=java&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot'></span>
-
-### Currently learning
-<span><img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'></span>
-
 ### Stats
 <a href='https://www.codewars.com/users/rafe95'>
   <img src='https://www.codewars.com/users/rafe95/badges/large'>
