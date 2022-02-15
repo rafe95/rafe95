@@ -18,12 +18,9 @@ team management, UI/UX and TDD.
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
 
-### Stats
 <a href='https://www.codewars.com/users/rafe95'>
   <img src='https://www.codewars.com/users/rafe95/badges/large'>
 </a>
-<img src='https://github-readme-stats.vercel.app/api?username=rafe95&count_private=true&show_icons=true'>
-<img src='http://github-readme-streak-stats.herokuapp.com?user=rafe95'>
 
 <!--
 **rafe95/rafe95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
