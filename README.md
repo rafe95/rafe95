@@ -19,11 +19,6 @@ team management, UI/UX and TDD.
 </a>
 
 
-
-<a href='https://www.codewars.com/users/rafe95'>
-  <img src='https://www.codewars.com/users/rafe95/badges/large'>
-</a>
-
 <!--
 **rafe95/rafe95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
