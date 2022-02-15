@@ -18,6 +18,8 @@ team management, UI/UX and TDD.
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
 </a>
 
+
+
 <a href='https://www.codewars.com/users/rafe95'>
   <img src='https://www.codewars.com/users/rafe95/badges/large'>
 </a>
