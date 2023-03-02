@@ -1,7 +1,3 @@
-<a href='https://github.com/rafe95'>
-<img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rafe95.rafe95&color=55acb7&style=for-the-badge&logo=Github'>
-</a>
-  
 # Hello visitor!
 ### Welcome to my profile
 I'm a software engineer who loves JVM technologies, Linux and problem solving.
